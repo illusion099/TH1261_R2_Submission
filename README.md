@@ -50,15 +50,12 @@ This prototype recreates the sacred journey of a devotee inside the **Mahakalesh
 ---
 
 ## 🧪 Prototype Demo Storyflow
-
-```mermaid
-graph TD
-    A[🚪 Temple Gate] --> B[🙏 Nandi Darshan]
-    B --> C[🔔 Bell Ringing]
-    C --> D[🕉️ Garbhagriha (Shivlinga)]
-    D --> E[💧 Jal Abhishek Ritual]
-    E --> F[✨ Divine Mahakaleshwar Revelation]
-
+1. 🚪 Temple Gate  
+2. 🙏 Nandi Darshan  
+3. 🔔 Bell Ringing  
+4. 🕉️ Garbhagriha (Shivlinga)  
+5. 💧 Jal Abhishek Ritual  
+6. ✨ Divine Mahakaleshwar Revelation  
 
 ---
 
