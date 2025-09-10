@@ -9,6 +9,8 @@ It addresses challenges like **overcrowding** and **limited access**, offering d
 Developed in **Unity (VR compatible)**, this prototype combines **3D environments, cultural authenticity, and interactive rituals** to create a devotional digital journey.  
 
 ---
+[![Watch the video](https://img.youtube.com/vi/jbeguq5MOEw/0.jpg)](https://www.youtube.com/watch?v=jbeguq5MOEw)
+
 
 ## 📖 Prototype Summary
 This prototype recreates the sacred journey of a devotee inside the **Mahakaleshwar Jyotirlinga Temple, Ujjain**.  
