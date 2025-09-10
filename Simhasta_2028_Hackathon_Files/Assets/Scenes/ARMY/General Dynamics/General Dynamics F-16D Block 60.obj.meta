@@ -1,0 +1,272 @@
+fileFormatVersion: 2
+guid: 295b5158724870449a06ff1edf7053c0
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CFT_CFT_CFT.0Mat
+    second: {fileID: 2100000, guid: 69e8e73f445f66a48961c21638159b73, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: F-16_F-16_F-16.1Mat
+    second: {fileID: 2100000, guid: 51aa1c8d611536944983483442711fe6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: F-16_F-16_F-16.2Mat
+    second: {fileID: 2100000, guid: dfed7196dad26954bbb0fb0811c86534, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: F-16_F-16_F-16.3Mat
+    second: {fileID: 2100000, guid: 50387c1c36e41404caebaff8d9f5a452, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: F-16_F-16_F-16.4Mat
+    second: {fileID: 2100000, guid: 83e1202cb0a916444a379ddf56c7d48b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: F-16_F-16_F-16.5Mat
+    second: {fileID: 2100000, guid: 0083acf32a6beb642b3f9025599d9a69, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: F-16_F-16_F-16.6Mat
+    second: {fileID: 2100000, guid: 35ec95f5426504b4397acf9b471846a8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: F-16_F-16_aileron_l.0Mat
+    second: {fileID: 2100000, guid: 7dc4998c25819da40b29bc6b40b7f9d8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HUD_HUD_cockpit_add.0Mat
+    second: {fileID: 2100000, guid: d14e84ca2b431214bb4f57f6a9dd9686, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: aileron_l_aileron_l_aileron_l.0Mat
+    second: {fileID: 2100000, guid: e0d772c1c61f86b47b7f0bf1dfe4860b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: aileron_r_aileron_r_aileron_l.0Mat
+    second: {fileID: 2100000, guid: d44717c439e9e7946888ea8eba82d636, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cockpit2_cockpit2_F-16.2Mat
+    second: {fileID: 2100000, guid: bfd4b5b6283f44b41815a7413880d08f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cockpit_cockpit_F-16.2Mat
+    second: {fileID: 2100000, guid: 0a41809521add2e4bbbde73ee3c191b5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cockpit_vc.001_cockpit_vc.001_F-16.2Mat
+    second: {fileID: 2100000, guid: 2c4ff09467f93644ea4191217bb53c64, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cockpit_vc_cockpit_vc_F-16.2Mat
+    second: {fileID: 2100000, guid: 973d1f25af2bc504c94f258762f67394, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: eject_seat_eject_seat_F-16.1Mat
+    second: {fileID: 2100000, guid: 0c5e2ddfcb8501342a6be67d5faf3041, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: elevator_r_elevator_r_aileron_l.0Mat
+    second: {fileID: 2100000, guid: 6c48c2aa940a17f4fbba4bc00e27a97f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gear_l_gear_l_aileron_l.0Mat
+    second: {fileID: 2100000, guid: 06b720b6f05fadf4393f3c77c011d747, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gear_l_gear_l_misc_a.1Mat
+    second: {fileID: 2100000, guid: 259d98391bbebcd4c98fc67a1c5c003e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gear_r_gear_r_aileron_l.0Mat
+    second: {fileID: 2100000, guid: dccbc829107a5b642887cef187268436, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gear_r_gear_r_misc_a.1Mat
+    second: {fileID: 2100000, guid: ff1faff303f8af443b0b425826ab95ae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hud_disp_hud_disp_cockpit_add.0Mat
+    second: {fileID: 2100000, guid: 843e93431779f3d4f894dddb3a9f8b3a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: misc_a_misc_a_aileron_l.0Mat
+    second: {fileID: 2100000, guid: dee4194aef718fa46ba5f2c54db6b715, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: misc_a_misc_a_misc_a.1Mat
+    second: {fileID: 2100000, guid: cf26a12df5423af41ab42a72d63020bc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pitch_ladder_pitch_ladder_cockpit_add.0Mat
+    second: {fileID: 2100000, guid: 3e8b8ce2cb6708543b5ecd4096d82bd7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: poly.001_poly.001_F-16.2Mat
+    second: {fileID: 2100000, guid: 404b51492fc589542b3406eec4449738, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: poly.002_poly.002_F-16.2Mat
+    second: {fileID: 2100000, guid: bbcec66a89444244b91d23b10808a438, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: poly.003_poly.003_F-16.2Mat
+    second: {fileID: 2100000, guid: f8dc485cc8b01004bb0b3885f77d2e25, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: poly.004_poly.004_aileron_l.0Mat
+    second: {fileID: 2100000, guid: b213b21217d133549901043abe384617, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: poly.004_poly.004_glassMat
+    second: {fileID: 2100000, guid: 010f83d11fec2884c9994934e48b6ec5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: poly_poly_F-16.2Mat
+    second: {fileID: 2100000, guid: e20e53abdd4a7d7448e14253db461501, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: velo_vec_velo_vec_cockpit_add.0Mat
+    second: {fileID: 2100000, guid: c482ac180c207ac4dada9c1685cfb602, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wheel_wheel_wheel.0Mat
+    second: {fileID: 2100000, guid: 7d6d169c71f867a48aea47d0168cb06f, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
