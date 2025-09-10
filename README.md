@@ -50,13 +50,18 @@ This prototype recreates the sacred journey of a devotee inside the **Mahakalesh
 ---
 
 ## 🧪 Prototype Demo Storyflow
-1. 🚪 Temple Gate  
-2. 🙏 Nandi Darshan  
-3. 🔔 Bell Ringing  
-4. 🕉️ Garbhagriha (Shivlinga)  
-5. 💧 Jal Abhishek Ritual  
-6. ✨ Divine Mahakaleshwar Revelation  
-
+# 1. 🚪 Temple Gate  
+   ![Temple Gate](https://github.com/illusion099/TH1261_R2_Submission/blob/main/image/1.jpeg)
+# 2. 🙏 Nandi Darshan  
+   ![Nandi Darshan](https://github.com/illusion099/TH1261_R2_Submission/blob/main/image/2.jpeg)
+# 3. 💧 Jal Abhishek Ritual  
+   ![Garbhagriha](https://github.com/illusion099/TH1261_R2_Submission/blob/main/image/3.jpeg)
+# 4. 🕉️ Garbhagriha (Shivlinga)  
+   ![Jal Abhishek Ritual](https://github.com/illusion099/TH1261_R2_Submission/blob/main/image/4.jpeg)
+# 5. ✨ Divine Mahakaleshwar Revelation
+   ![Jal Abhishek Ritual](https://github.com/illusion099/TH1261_R2_Submission/blob/main/image/6(2).jpeg)
+# 6. 🏛️ Simhastha Museum
+ ![Jal Abhishek Ritual](https://github.com/illusion099/TH1261_R2_Submission/blob/main/image/7.jpeg)
 ---
 
 ## 🧰 Technology Stack
