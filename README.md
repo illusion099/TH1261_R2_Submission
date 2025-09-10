@@ -51,7 +51,7 @@ This prototype recreates the sacred journey of a devotee inside the **Mahakalesh
 
 ## 🧪 Prototype Demo Storyflow
 1. 🚪 Temple Gate  
-   ![Temple Gate](images/1.jpeg)
+   ![Temple Gate](https://github.com/illusion099/TH1261_R2_Submission/blob/main/image/1.jpeg)
 2. 🙏 Nandi Darshan  
    ![Nandi Darshan](images/2.jpeg)
 3. 🕉️ Garbhagriha (Shivlinga)  
